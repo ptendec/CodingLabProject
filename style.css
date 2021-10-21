@@ -1,0 +1,142 @@
+.attraction{
+	padding-top: 100px;
+}
+.titleOfAttraction{
+	font-size: 35px;
+	margin-top: 50px;
+	display: inline-block;
+	margin-left: 20px;
+	padding-right: 20px;
+}
+.addToDesired{
+	background-color: #007AFF;
+	color: #fff;
+	height: 40px;
+	width: 200px;
+	text-decoration: none;
+	display: inline-block;
+	text-align: center;
+	padding-top: 8px;
+	border-radius: 4px;
+	margin-left: 20px;
+}
+.DescriptionOfAttraction{
+	margin-left: 20px;
+	margin-right: 20px;
+	display: inline-block;
+}
+.addToDesired:hover{
+	text-decoration: none;
+	color: #fff;
+	position: relative;
+	top: -1px;
+}
+.addToDesired:active{
+	position: relative;
+	top: 0px;
+}
+.shadow_wrapper{
+	-webkit-box-shadow: 0px 4px 8px 0px rgba(34, 60, 80, 0.2);
+	-moz-box-shadow: 0px 4px 8px 0px rgba(34, 60, 80, 0.2);
+	box-shadow: 0px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.headerLinks{
+	margin-left: 25px;
+	color: #000 !important;
+	font-size: 20px;
+	text-decoration: none;
+	margin-top: 50px;
+	display: inline-block;
+}
+.wrapper_room_preview{
+	text-decoration: none;
+}
+.img:hover .room_description{
+	text-decoration: underline;
+}
+.room_img{
+	width: 100%;
+	border-radius: 10px;
+}
+.room_description{
+	text-decoration: none;
+	color: #000;
+}
+.description_p{
+	height: 140px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.wrapper_room_preview{
+	padding: 30px;
+	border-radius: 10px;
+	height: 590px;
+	margin-bottom: 40px;
+}
+.type_of_room{
+	margin-top: 20px;
+	font-size: 20px;
+}
+.wrapper_room_preview:hover{
+	-webkit-box-shadow: 0px 4px 8px 0px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 0px 4px 8px 0px rgba(34, 60, 80, 0.2);
+box-shadow: 0px 4px 8px 0px rgba(34, 60, 80, 0.2);
+	transition-property: all;
+	transition-duration: 0.2s;
+	transition-timing-function: easeInOutBack;
+
+}
+.review{
+	margin-top: 80px;
+	margin-bottom: 100px;
+}
+.shadow_wrapper2{
+	-webkit-box-shadow: 0px 4px 8px 0px rgba(34, 60, 80, 0.2);
+	-moz-box-shadow: 0px 4px 8px 0px rgba(34, 60, 80, 0.2);
+	box-shadow: 0px 4px 8px 0px rgba(34, 60, 80, 0.2);
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.textOfReview{
+	border: 1px solid #000;
+	height: 100px;
+	width: 100%;
+	display: inline-block;
+	outline: none;
+	border-radius: 7px;
+	padding-left: 20px;
+}
+.leaveReviewButton{
+	width: 150px;
+	height: 40px;
+	background-color: #007AFF;
+	color: #fff;
+	outline: none;
+	border: none;
+	border-radius: 7px;
+	margin-top: 10px;
+	float: right;
+}
+.leaveReviewButton:hover{
+	position: relative;
+	top: -1px;
+}
+.leaveReviewButton:active{
+	position: relative;
+	top: 0px;
+}
+.usernameLeftReview{
+	font-size: 18px;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+.textOfReviewLeft{
+	margin-left: 30px;
+}
+.shadow_wrapper3{
+	background-color: rgba(21, 172, 255, 0.2) ;
+	margin-top: 20px;
+}
